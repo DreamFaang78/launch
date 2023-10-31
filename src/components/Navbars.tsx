@@ -34,7 +34,7 @@ export default function App() {
     <Navbar>
       <NavbarBrand>
       <Link color="foreground" href="/profile">
-          Gnaga Eco Warriors
+          Ganga Eco Warriors
           </Link>
       </NavbarBrand>
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
