@@ -1,0 +1,51 @@
+{
+  "name": "auth-nextjs-youtube",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.11.2",
+    "@material-tailwind/react": "^2.1.4",
+    "@nextui-org/react": "^2.1.13",
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "ai": "^2.2.20",
+    "animate.css": "^4.1.1",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "countdown": "^2.6.0",
+    "dotenv": "^16.3.1",
+    "elevenlabs-node": "^1.2.0",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.6.4",
+    "framer-motion": "^10.16.4",
+    "fs-extra": "^11.1.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1",
+    "next": "^14.0.0",
+    "nodemailer": "^6.9.6",
+    "openai": "^4.14.1",
+    "openai-edge": "^1.2.2",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-countdown": "^2.3.5",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/nodemailer": "^6.4.8"
+  }
+}
